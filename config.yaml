@@ -3,6 +3,14 @@ languageCode: 'en-us'
 title: 'Communications Hill'
 theme: 'ananke'
 
+googleAnalytics: 'UA-132850368-1'
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: 'monthly'
+  priority: 0.5
+  filename: 'sitemap.xml'
+
 permalinks:
   posts: '/:year/:month/:day/:title/'
 
@@ -12,4 +20,4 @@ deployment:
       URL: 'azblob://$web'
   matchers:
     - pattern: '^.+\.(html|xml|json)$'
-      gzip: 'true'
+      gzip: true
