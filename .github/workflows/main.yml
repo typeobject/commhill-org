@@ -21,10 +21,11 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        env:
+          HUGO_ENV: production
 
       - name: Deploy
         run: hugo deploy
         env:
           AZURE_STORAGE_ACCOUNT: ${{ secrets.AZURE_STORAGE_ACCOUNT }}
           AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
-          HUGO_ENV: production 
