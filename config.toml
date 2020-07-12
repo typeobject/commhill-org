@@ -1,0 +1,4 @@
+baseURL = "http://commhill.org/"
+languageCode = "en-us"
+title = "Communications Hill"
+theme = "ananke"
