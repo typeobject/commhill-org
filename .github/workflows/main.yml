@@ -1,4 +1,4 @@
-name: azure publish
+name: Publish to Azure
 
 on:
   push:
@@ -25,3 +25,6 @@ jobs:
 
       - name: Deploy
         run: hugo deploy
+        env:
+          AZURE_STORAGE_ACCOUNT: ${{ secrets.AZURE_STORAGE_ACCOUNT }}
+          AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
