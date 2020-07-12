@@ -20,12 +20,10 @@ jobs:
           hugo-version: '0.73.0'
 
       - name: Build
-        run: hugo --minify
-        env:
-          HUGO_ENV: production
+        run: hugo --minify --environment=production
 
       - name: Deploy
-        run: hugo deploy
+        run: hugo deploy --force --maxDeletes -1
         env:
           AZURE_STORAGE_ACCOUNT: ${{ secrets.AZURE_STORAGE_ACCOUNT }}
           AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}

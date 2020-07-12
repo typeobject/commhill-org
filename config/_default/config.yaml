@@ -1,0 +1,16 @@
+languageCode: 'en-us'
+title: 'Communications Hill'
+theme: 'ananke'
+
+MetaDataFormat: 'yaml'
+DefaultContentLanguage: 'en'
+SectionPagesMenu: 'main'
+Paginate: 10
+
+sitemap:
+  changefreq: 'monthly'
+  priority: 0.5
+  filename: 'sitemap.xml'
+
+permalinks:
+  posts: '/:year/:month/:day/:title/'
