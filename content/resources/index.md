@@ -1,6 +1,7 @@
 ---
 title: Resident Resources
-url: /resources-for-residents
+url: /resident-resources
+menu: main
 ---
 
 This page is a list of helpful links for Communications Hill residents.
