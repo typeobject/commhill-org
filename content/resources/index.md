@@ -8,8 +8,9 @@ This page is a list of helpful links for Communications Hill residents.
 
 - Homeowner Associations
   - [Chianti](https://app.pilera.com/)
-  - [Lancaster Gate](https://www.lancastergatehoa.com/)
+  - [Helsing Group](https://www.helsing.com/)
   - [Tuscany Hills](https://app.pilera.com/)
+  - [Lancaster Gate](https://www.lancastergatehoa.com/)
 
 - Report issues on private property through [San Jose Code Enforcement](https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/code-enforcement/request-service-check-status/code-service-request-form)
 
