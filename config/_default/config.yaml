@@ -14,3 +14,10 @@ sitemap:
 
 permalinks:
   posts: '/:year/:month/:day/:title/'
+
+params:
+  favicon: ''
+  site_logo: ''
+  description: 'A neighborhood in San Jose, California.'
+  background_color_class: 'bg-black'
+  featured_image: '/images/trail-overlook-hero.jpg'
