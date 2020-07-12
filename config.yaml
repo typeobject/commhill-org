@@ -1,0 +1,15 @@
+baseURL: 'https://www.commhill.org/'
+languageCode: en-us
+title: Communications Hill
+theme: ananke
+
+permalinks:
+  posts: '/:year/:month/:day/:title/'
+
+deployment:
+  targets:
+    - name: mydeployment
+      URL: 'azblob://$web'
+  matchers:
+    - pattern: ^.+\.(html|xml|json)$
+      gzip: true
