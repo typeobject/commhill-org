@@ -10,3 +10,9 @@ deployment:
   matchers:
     - pattern: '^.+\.(html|xml|json)$'
       gzip: true
+    - pattern: ^.+\.(js|css|svg|ttf)$
+      cacheControl: 'max-age=86400, no-transform, public'
+      gzip: true
+    - pattern: ^.+\.(png|jpg)$
+      cacheControl: 'max-age=86400, no-transform, public'
+      gzip: false
