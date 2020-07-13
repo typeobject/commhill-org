@@ -1,5 +1,6 @@
 languageCode: 'en-us'
 title: 'Communications Hill'
+copyright: 'commhill.org'
 theme: 'ananke'
 
 MetaDataFormat: 'yaml'
