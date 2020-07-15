@@ -16,3 +16,7 @@ details on what you'd like to change.
 3. Install [Hugo](https://gohugo.io/getting-started/installing/) for your specific operating system.
 4. Run locally:
    - `$ hugo server -D`
+
+## Deployment
+
+Deployment to https://www.commhill.org is automated. Everything committed to the master branch will be deployed by Github Actions to an Azure storage container which is then served out via Cloudflare's CDN.
