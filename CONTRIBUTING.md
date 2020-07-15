@@ -1,0 +1,18 @@
+# Contribution Guidelines for www.commhill.org
+
+I'm really glad you're reading this, because we need volunteer developers and
+general feedback to help this project come to fruition.
+
+If you're not a web developer, or simply don't have time to fix an issue, please
+[open a new issue](https://github.com/typeobject/commhill-org/issues/new) with
+details on what you'd like to change.
+
+## Developer Quickstart
+
+1. Fork the `commhill-org` repo as documented on [GitHub](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+2. Clone the repo to your machine using the follwing command:
+   - `$ git clone <forked-repo> --recurse-submodules`
+   - If you already cloned, but forgot submodules, run `$ git submodule update --init --recursive`.
+3. Install [Hugo](https://gohugo.io/getting-started/installing/) for your specific operating system.
+4. Run locally:
+   - `$ hugo server -D`

@@ -25,5 +25,6 @@ This page is intended to be a list of helpful links for Communications Hill resi
 - For district 7 specific issues, contact <district7@sanjose.gov>.
 
 # Construction Updates
-- [City-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill)
-- Search the [San Jose Permits](https://sjpermits.org/permits/) website for the address "0 CURTNER".
+- An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
+- Search the [San Jose Permits](https://sjpermits.org/permits/) website for the address "0 CURTNER" if you're interested in detailed information.
+- For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
