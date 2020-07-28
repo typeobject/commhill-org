@@ -16,6 +16,23 @@ This page is intended to be a list of helpful links for Communications Hill resi
 - [Tuscany Hills](https://app.pilera.com/)
 
 # Report Issues
+A majority of issues can be reported using the [San Jose 311 website](https://www.sanjoseca.gov/residents/report-an-issue). San Jose 311 also has an iOS and Android app that can be used as well to report issues. Below is a quick guide of what you can report on the 311 app and where to report other issues that aren't handled by San Jose 311.
+
+|   | Methods to Report| Phone Details  |
+|---|---|---|
+| Abandon Vehicle  | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
+|  Graffiti | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
+|  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
+|  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
+|  Pothole | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
+|  Streetlight Outage | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 | 
+|  Homeless Concerns |  homelessconcerns@sanjoseca.gov | 408-975-1400  |
+|  Along Train Tracks | rmcc_in@up.com | 888-877-7267 |
+|  Near freeways, Highway & Ramps | [Submit Customer Service Request to Caltrans ](https://csr.dot.ca.gov/) |
+|  Parks Concern | park.concerns@sanjoseca.gov |  408-793-5510 |
+
+
+# Report Issues
 - For most issues on public property, [please follow these instructions](https://www.sanjoseca.gov/residents/report-an-issue).
     - Pictures are often useful for a speedy resolution. When applicable, try to take two pictures of the issue -- one close-up, and a second which clearly shows the location with more context.
     - Make sure the map marker is in the correct position (the auto-detected location is often incorrect).
