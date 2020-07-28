@@ -27,7 +27,6 @@ San Jose 311 also has an iOS and Android app (see the links in the table below) 
 |---|---|---|
 | Abandon Vehicle  | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
 |  Graffiti | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
-|  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
 |  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
 |  Pothole | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
 |  Streetlight Outage | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 | 
