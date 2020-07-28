@@ -42,3 +42,4 @@ San Jose 311 also has an iOS and Android app (see the links in the table below) 
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
 - Search the [San Jose Permits](https://sjpermits.org/permits/) website for the address "0 CURTNER" if you're interested in detailed information.
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
+- For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](http://csjpbce.sanjoseca.gov/ecmsviewer/487/042/45042487.pdf).
