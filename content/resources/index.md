@@ -16,9 +16,14 @@ This page is intended to be a list of helpful links for Communications Hill resi
 - [Tuscany Hills](https://app.pilera.com/)
 
 # Report Issues
-A majority of issues can be reported using the [San Jose 311 website](https://www.sanjoseca.gov/residents/report-an-issue). San Jose 311 also has an iOS and Android app that can be used as well to report issues. Below is a quick guide of what you can report on the 311 app and where to report other issues that aren't handled by San Jose 311.
+A majority of issues can be reported using the [San Jose 311 website](https://www.sanjoseca.gov/residents/report-an-issue).
 
-|   | Methods to Report| Phone Details  |
+San Jose 311 also has an iOS and Android app (see the links in the table below) that can be used to report issues. Below is a quick guide of what you can report on the 311 app and where to report various other issues that aren't handled by San Jose 311.
+
+{{<table table-class="f6 w-100 mw8 center"
+         th-class="fw6 bb b--black-20 tl pb3 pr3"
+         td-class="pv3 pr3 bb b--black-20">}}
+| Type | How to Report | Phone |
 |---|---|---|
 | Abandon Vehicle  | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
 |  Graffiti | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 |
@@ -26,20 +31,13 @@ A majority of issues can be reported using the [San Jose 311 website](https://ww
 |  Illegal Dumping | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
 |  Pothole | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) | 408-535-3500  |
 |  Streetlight Outage | [Web](http://sanjose.custhelp.com/), [iOS](https://apps.apple.com/us/app/my-san-jose-a-newway/id1231429879), [Android](https://play.google.com/store/apps/details?id=com.astcorporation.three11&hl=en) |  408-535-3500 | 
-|  Homeless Concerns |  homelessconcerns@sanjoseca.gov | 408-975-1400  |
-|  Along Train Tracks | rmcc_in@up.com | 888-877-7267 |
-|  Near freeways, Highway & Ramps | [Submit Customer Service Request to Caltrans ](https://csr.dot.ca.gov/) |
-|  Parks Concern | park.concerns@sanjoseca.gov |  408-793-5510 |
-
-
-# Report Issues
-- For most issues on public property, [please follow these instructions](https://www.sanjoseca.gov/residents/report-an-issue).
-    - Pictures are often useful for a speedy resolution. When applicable, try to take two pictures of the issue -- one close-up, and a second which clearly shows the location with more context.
-    - Make sure the map marker is in the correct position (the auto-detected location is often incorrect).
-- Report issues regarding VTA (e.g. the light rail) using VTAlerts
-  - On the [iOS (iPhone) app store](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8)
-  - On the [Google Play (Android) app store](https://play.google.com/store/apps/details?id=com.elerts.vta)
-- For district 7 specific issues, contact <district7@sanjose.gov>.
+|  Homeless Concerns |  [Email](mailto:homelessconcerns@sanjoseca.gov) | 408-975-1400  |
+|  Along Train Tracks | [Email](mailto:rmcc_in@up.com) | 888-877-7267 |
+|  Near freeways, Highway & Ramps | [Web](https://csr.dot.ca.gov/) |
+|  In a Public Park | [Email](mailto:park.concerns@sanjoseca.gov) |  408-793-5510 |
+|  VTA (Light Rail) | [iOS](https://itunes.apple.com/us/app/vtalerts/id633600618?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.elerts.vta) |  |
+|  Other issues not listed | [Web](https://www.sanjoseca.gov/residents/report-an-issue) | 311 or 408-277-8900 |
+{{</table>}}
 
 # Construction Updates
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
