@@ -38,8 +38,20 @@ San Jose 311 also has an iOS and Android app (see the links in the table below) 
 |  Other issues not listed | [Web](https://www.sanjoseca.gov/residents/report-an-issue) | 311 or 408-277-8900 |
 {{</table>}}
 
+# Litter Cleanup
+Interested in cleaning up litter on the trail or in a park? Here's a few tips:
+- San Jose has a [litter cleanup program](https://www.sanjoseca.gov/your-government/departments/parks-recreation-neighborhood-services/volunteer-with-us/anti-graffiti-litter) that you can signup for. They'll give you some basic equipment free-of-charge.
+- Basic recommended equipment (in order of importance):
+  - Tough trash bags that can handle sitting outside for a few days without falling apart.
+  - An *ergonomic* grabber tool (Jon's recommendation can be found [here](https://www.homedepot.com/p/Unger-36-in-Ergonomically-Designed-Nifty-Nabber-UNGNT090/205904959)). Non-ergonomic grabber tools will still work, but will hurt your hand after a half hour or so.
+  - Gloves that are tough, but cheap enough that you don't mind getting rid of them if they get really nasty (Jon's recommendation can be found [here](https://www.homedepot.com/p/Firm-Grip-Leather-Palm-Large-Gloves-3-Pairs-6023-24/202530905)).
+  - A box cutter (Jon's recommendation can be found [here](https://www.homedepot.com/p/Milwaukee-FASTBACK-Folding-Utility-Knife-with-Blade-Storage-Compact-Folding-Utility-Knife-with-2-General-Purpose-Blades-2-Pack-48-22-1503/309350823)).
+- If you pickup litter along the trail, leaving your bags of litter (securely tied of course) next to the public trash cans seems to result in the bags being removed by the city without issue. However, you may wish to contact the city for an official recommendation on where to leave bags of litter you pick up.
+  - Please [create an issue on github](https://github.com/typeobject/commhill-org/issues) if you know of a better process to use for disposal of bags of litter.
+
+
 # Construction Updates
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
-- Search the [San Jose Permits](https://sjpermits.org/permits/) website for the address "0 CURTNER" if you're interested in detailed information.
+- Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information.
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
 - For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](http://csjpbce.sanjoseca.gov/ecmsviewer/487/042/45042487.pdf).
