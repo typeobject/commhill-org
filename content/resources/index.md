@@ -15,6 +15,10 @@ This page is intended to be a list of helpful links for Communications Hill resi
 - [Lancaster Gate](https://www.lancastergatehoa.com/)
 - [Tuscany Hills](https://app.pilera.com/)
 
+# Junk Pickup
+
+Do you have junk (e.g. an old mattress, worn out car tires, a broken refrigerator, etc.) that you're trying to get rid of? Schedule an appointment with San Jose's [_free_ junk pickup service](https://www.sanjoseca.gov/your-government/environment/recycling-garbage/junk-pickup).
+
 # Report Issues
 A majority of issues can be reported using the [San Jose 311 website](https://www.sanjoseca.gov/residents/report-an-issue).
 
