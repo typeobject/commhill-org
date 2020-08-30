@@ -10,8 +10,8 @@ The Communications Hill area has several active construction projects. This page
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
 - Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information.
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
-- For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](/pdfs/45042487.pdf).
-- For a basic construction schedule, see page 34 of [this document](/pdfs/commhillAppendixEAirQuality.pdf).
+- For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](https://static-www.commhill.org/pdf/45042487.pdf).
+- For a basic construction schedule, see page 34 of [this document](https://static-www.commhill.org/pdf/commhillAppendixEAirQuality.pdf).
 
 # California High Speed Rail
 
@@ -25,7 +25,7 @@ The Communications Hill area has several active construction projects. This page
 # Capitol Caltrain Station Pedestrian Bridge
 
 - A pedestrian bridge is proposed to link Hillsdale Station Rd. (and Communications Hill trail) with the Capitol Caltrain Station.
-- More information can be found in the [specific plan under the heading "ADP Improvement 8"](/pdfs/CommunicationsHillSpecific.pdf).
+- More information can be found in the [specific plan under the heading "ADP Improvement 8"](https://static-www.commhill.org/pdf/CommunicationsHillSpecific.pdf).
 - The design and construction of the pedestrian bridge is tied into the phasing for the KB Home residential construction. Design work for the bridge is planned in phase 3, while construction is planned for phase 4 (see construction schedule notes for the KB Home residential construction above).
 
 # Capitol Expy Repair and Rehab
@@ -35,8 +35,8 @@ The Communications Hill area has several active construction projects. This page
 # Communications Hill Blvd. Bridge (and Curtner Ave Improvements)
 
 - A vehicle bridge on Communications Hill Blvd. over the Union Pacific right-of-way is proposed. The project includes various improvements to Curter Ave.
-- More information can be found in the [specific plan under the heading "ADP Improvement 8"](/pdfs/CommunicationsHillSpecific.pdf).
-- Also see [part 1-3 of PDA14-035-06](/pdfs/PDA1403506PT1901Phase34part13.pdf) for the proposed alignment.
+- More information can be found in the [specific plan under the heading "ADP Improvement 8"](https://static-www.commhill.org/pdf/CommunicationsHillSpecific.pdf).
+- Also see [part 1-3 of PDA14-035-06](https://static-www.commhill.org/pdf/PDA1403506PT1901Phase34part13.pdf) for the proposed alignment.
 
 # Hillsdale Fitness Stairs (Public Park)
 
