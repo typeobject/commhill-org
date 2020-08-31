@@ -6,6 +6,8 @@ menu: main
 
 The Communications Hill area has several active construction projects. This page is intended to give an overview of all known ongoing projects nearby. The projects are listed in no particular order.
 
+If you would like to [propose or update content](https://github.com/typeobject/commhill-org/issues/new) on this page, please keep in mind the [geographic boundary to Communications Hill](https://static-www.commhill.org/pdf/CommHill_neighprofilesPDF15017.pdf). Please only include construction projects within or bordering the neighborhood.
+
 _This page was last updated on August 30th, 2020._
 
 # KB Home's Residential Construction
