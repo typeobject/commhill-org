@@ -6,6 +6,8 @@ menu: main
 
 The Communications Hill area has several active construction projects. This page is intended to give an overview of all known ongoing projects nearby. The projects are listed in no particular order.
 
+_This page was last updated on August 30th, 2020._
+
 # KB Home's Residential Construction
 - For details on the Village Center (retail) plans, [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
