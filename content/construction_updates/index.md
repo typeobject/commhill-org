@@ -11,7 +11,7 @@ If you would like to [propose or update content](https://github.com/typeobject/c
 _This page was last updated on August 30th, 2020._
 
 # KB Home's Residential Construction
-- The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
+- The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans for the Village Center [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
 - For details on all proposed public parks, [see this document](https://static-www.commhill.org/pdf/commhillParklandFacilities.pdf).
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
 - Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information.
@@ -22,7 +22,7 @@ _This page was last updated on August 30th, 2020._
 # California High Speed Rail
 
 - The California High Speed Rail is currently planned to follow the existing Union Pacific Railroad right-of-way through Communications Hill. See the "San Jose to Merced" on the [CA HSR website](https://hsr.ca.gov/high_speed_rail/project_sections/san_jose_merced.aspx) for more details.
-- The section that affects Communications Hill is typically refered to as "Monterey Corridor" in their documents (even though the real Monterey Corridor is north of Seven Trees, east of Monterey Ave, and south of Spartan Keyes). For example, search for "Monterey Corridor" in [this document](https://static-www.commhill.org/pdf/Draft_EIRS_JM_V1-21_CH_3.13_Station_Planning_Land_Use.pdf) to get an overview of how the HSR impacts the hill for each proposed alternative.
+- The section that affects Communications Hill is incorrectly referred to as "Monterey Corridor" in their documents (the real Monterey Corridor is north of Seven Trees, east of Monterey Ave, and south of Spartan Keyes). Search for "Monterey Corridor" in [this document](https://static-www.commhill.org/pdf/Draft_EIRS_JM_V1-21_CH_3.13_Station_Planning_Land_Use.pdf) to get an overview of how the HSR impacts the hill for each proposed alternative.
 
 # Canoas Creek Trail
 
