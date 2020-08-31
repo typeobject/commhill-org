@@ -12,6 +12,7 @@ _This page was last updated on August 30th, 2020._
 
 # KB Home's Residential Construction
 - For details on the Village Center (retail) plans, [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
+- For details on all proposed public parks, [see this document](https://static-www.commhill.org/pdf/commhillParklandFacilities.pdf).
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
 - Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information.
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
