@@ -22,7 +22,7 @@ _This page was last updated on August 30th, 2020._
 # California High Speed Rail
 
 - The California High Speed Rail is currently planned to follow the existing Union Pacific Railroad right-of-way through Communications Hill. See the "San Jose to Merced" on the [CA HSR website](https://hsr.ca.gov/high_speed_rail/project_sections/san_jose_merced.aspx) for more details.
-- The section that affects Communications Hill is incorrectly referred to as "Monterey Corridor" in their documents (the real Monterey Corridor is north of Seven Trees, east of Monterey Ave, and south of Spartan Keyes). Search for "Monterey Corridor" in [this document](https://static-www.commhill.org/pdf/Draft_EIRS_JM_V1-21_CH_3.13_Station_Planning_Land_Use.pdf) to get an overview of how the HSR impacts the hill for each proposed alternative.
+- The section that affects Communications Hill is incorrectly referred to as "Monterey Corridor" in their documents (the [real Monterey Corridor](https://en.wikipedia.org/wiki/Spartan_Keyes,_San_Jose) is north of Seven Trees, east of Monterey Ave, and south of Spartan Keyes). Search for "Monterey Corridor" in [this document](https://static-www.commhill.org/pdf/Draft_EIRS_JM_V1-21_CH_3.13_Station_Planning_Land_Use.pdf) to get an overview of how the HSR impacts the hill for each proposed alternative.
 
 # Canoas Creek Trail
 
