@@ -52,7 +52,3 @@ _This page was last updated on August 30th, 2020._
 # Holiday Inn at 2660 Monterey Rd.
 
 - Just outside the boundary to Communications Hill, a significant expansion to a Holiday Inn is in progress at 2660 Monterey Rd. Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "2660 MONTEREY" if you're interested in detailed information.
-
-# Starbucks at 222 W. Capitol Expy
-
-- Just outside the boundary to Communications Hill, a new Starbucks is under construction at 222 W. Capitol Expy. Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "222 CAPITOL" if you're interested in detailed information.
