@@ -8,7 +8,7 @@ The Communications Hill area has several active construction projects. This page
 
 If you would like to [propose or update content](https://github.com/typeobject/commhill-org/issues/new) on this page, please keep in mind the [geographic boundary to Communications Hill](https://static-www.commhill.org/pdf/CommHill_neighprofilesPDF15017.pdf). Please only include construction projects within or bordering the neighborhood.
 
-_This page was last updated on August 30th, 2020._
+_This page was last updated on January 18th, 2021._
 
 # KB Home's Residential Construction
 - The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans for the Village Center [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
@@ -48,6 +48,11 @@ _This page was last updated on August 30th, 2020._
 # Hillsdale Fitness Stairs (Public Park)
 
 - A new fitness-oriented park is planned for construction on Hillsdale Ave between Quarry Park Way and Charter Park Dr.
+
+# Granite Rock Capitol Site Modernization Project
+
+- A project has been proposed for changes to the Granite Rock site. See [the city's website](https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/environmental-planning/environmental-review/active-eirs/graniterock-capitol-modernization-project) for details.
+- The NOP for the Draft EIR can be [found here](https://static-www.commhill.org/pdf/GraniterockProjectNOPPDC19.pdf).
 
 # Holiday Inn at 2660 Monterey Rd.
 
